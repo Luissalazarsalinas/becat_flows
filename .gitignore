@@ -1,0 +1,5 @@
+becat_foros_tareas/
+.env
+__pycache__
+Dockerfile
+test.py
